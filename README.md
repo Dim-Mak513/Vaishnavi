@@ -1,5 +1,3 @@
-# Vaishnavi
-Learning Python , Git and Machine Learning
 # Hi 👋 I'm Vaishnavi Tiwari
 
 🎓 Student
